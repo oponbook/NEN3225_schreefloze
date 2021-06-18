@@ -18,7 +18,7 @@ A typeface digitisation and digital font production work, based on the [NEN 3225
 
 
 ## lICENSE
-GNU public lincese, v3.
+GNU public lincese, v3. \*For font in use, all produced are under SIL open font license.
 
 
 
