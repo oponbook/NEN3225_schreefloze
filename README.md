@@ -23,5 +23,5 @@ GNU public lincese, v3. \*For font in use, all produced are under SIL open font 
 
 
 ## cOLOPHON
-This project was derived from the design process of [David Bennewith](https://colophon.info/) & [Sandra Kassenaar](https://www.sandrakassenaar.com/), *Amsterdam* for the exhibition 'hET oNTWERP vAN hET sOCIALE' at Het Nieuwe Instituut, *Rotterdam*. Early summer 2021, [Dongbin Han](https://openboek.info/), *Arnhem* started this type digitisation and future revisions from that time on. 
+This project was derived from the design process of [David Bennewith](https://colophon.info/) and [Sandra Kassenaar](https://www.sandrakassenaar.com/), *Amsterdam* for the exhibition 'hET oNTWERP vAN hET sOCIALE, 100 jaar eigenzinning samenleven in nederland' at Het Nieuwe Instituut, *Rotterdam*. Early summer 2021, [Dongbin Han](https://openboek.info/), *Arnhem* started this type digitisation and future revisions from that time on. 
 
