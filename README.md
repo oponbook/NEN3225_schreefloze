@@ -15,6 +15,7 @@
 ## iNTRO
 A typeface digitisation and digital font production work, based on the [NEN 3225 norm(1962)](https://www.nen.nl/en/nen-3225-1962-nl-6541) "Dutch letter and number examples". *NEN 3225 Schreefloze* font family drawn by *Jan van Krimpen*.
 
+![NEN3225 typeface family in view.](https://i.imgur.com/0Jrh13q.png)
 
 
 ## lICENSE
