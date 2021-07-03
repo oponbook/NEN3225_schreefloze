@@ -26,5 +26,6 @@ GNU public lincese, v3. \*For font in use, all produced are under SIL open font 
 ## cOLOPHON
 This project was derived from graphic design of [David Bennewith](https://colophon.info/) and [Sandra Kassenaar](https://www.sandrakassenaar.com/), *ᵃᴹˢᵀᴱᴿᴰᴬᴹ* for the exhibition 'hET oNTWERP vAN hET sOCIALE, <span style="font-variant:small-caps;">100 jaar eigenzinning samenleven in nederland</span>' at [Het Nieuwe Instituut](https://ontwerpvanhetsociale.hetnieuweinstituut.nl/), *ʳᴼᵀᵀᴱᴿᴰᴬᴹ*. In the late spring of 2021, [Dongbin Han](https://openboek.info/), *ᵃᴿᴺᴴᴱᴹ* started this type digitisation and future revisions from that time on, *ᵂᵂᵂ*. 
 
-![NEN3225 typeface on display, rOTTERDAM 3rd July 2021.](https://openboek.info/source/img/DesigningTheSocial_frontView_dongbinhan.png){width=460px}
+<img src="https://openboek.info/source/img/DesigningTheSocial_frontView_dongbinhan.png" width="500">
+*NEN3225 typeface on display, ʳᴼᵀᵀᴱᴿᴰᴬᴹ 3rd July 2021.*
 
