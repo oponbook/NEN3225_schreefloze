@@ -12,7 +12,7 @@
 
 
 
-## iNTRO
+## ⁱNTRO
 A typeface digitisation and digital font production work, based on the [NEN 3225 norm(1962)](https://www.nen.nl/en/nen-3225-1962-nl-6541) "Dutch letter and number examples". *NEN 3225* Schreefloze family cuts drawn by *Jan van Krimpen*.
 
 ![NEN3225 typeface family in view, Romain(serif) & Schreefloze(sans-serif).](https://i.imgur.com/0Jrh13q.png)
@@ -23,10 +23,10 @@ This project was derived from graphic design of [David Bennewith](https://coloph
 
 In the late spring of 2021, [Dongbin Han](https://openboek.info/), *ᵃᴿᴺᴴᴱᴹ* started this type digitisation and future revisions from that time on, *ᵂᵂᵂ*. 
 
-## lICENSE
+## ˡICENSE
 GNU public lincese, v3. \*For font in use, all produced are under SIL open font license.
 
-## oUTRO
+## ᵒUTRO
 
 
 
