@@ -18,6 +18,7 @@ A typeface digitisation and digital font production work, based on the [NEN 3225
 ![NEN3225 typeface family in view, Romain(serif) & Schreefloze(sans-serif).](https://i.imgur.com/0Jrh13q.png)
 
 ## sPECIMEN
+<img src="https://ontwerpvanhetsociale.hetnieuweinstituut.nl/sites/default/files/cover-8231-61474/mobile_portrait.jpg" width="500">
 
 ## lICENSE
 GNU public lincese, v3. \*For font in use, all produced are under SIL open font license.
@@ -31,6 +32,10 @@ In the late spring of 2021, [Dongbin Han](https://openboek.info/), *ᵃᴿᴺᴴ
 
 <img src="https://openboek.info/source/img/DesigningTheSocial_frontView_dongbinhan.png" width="500">
 *NEN3225 typeface on display, ʳᴼᵀᵀᴱᴿᴰᴬᴹ 3rd July 2021.*
+
+
+
+
 
 
 
