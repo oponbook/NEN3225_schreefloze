@@ -12,12 +12,12 @@
 
 
 
-## intro
+## ⁱNDEX
 digitisation of listed one Romain cut, Schreefloze cuts and font-production in plan.
 
-## sPECIMEN
+## ˢPECIMEN
 ### Squint into fontS
 
-## dOCS
+## ᵈOCS
 <img src="https://openboek.info/source/img/DesigningTheSocial_frontView_dongbinhan.png" width="500">
 *NEN3225 typeface on display, ʳᴼᵀᵀᴱᴿᴰᴬᴹ 3rd July 2021.*
