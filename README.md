@@ -14,7 +14,7 @@
 
 
 ## ⁱNTRO
-A typeface digitisation and digital font production work, based on one style of the [NEN3225: Netherlands Letter and Number Model. Originally published in 1963 by the Dutch Standards Institution [NEN] as a collection of models for lettering in and on buildings, public signs, tombstones, etc., the typeface itself was designed by Dutch typographer and graphic designer Jan van Krimpen (1892-1958).](https://www.nen.nl/en/nen-3225-1962-nl-6541) 
+A typeface digitisation and digital font production work, based on one style of the [NEN3225: Netherlands Letter and Number Model](https://www.nen.nl/en/nen-3225-1962-nl-6541). Originally published in 1963 by the Dutch Standards Institution [NEN] as a collection of models for lettering in and on buildings, public signs, tombstones, etc., the typeface itself was designed by Dutch typographer and graphic designer Jan van Krimpen (1892-1958).
 
 
 ![NEN3225 typeface family in view, Romain(serif) & Schreefloze(sans-serif).](https://i.imgur.com/0Jrh13q.png)<br> <br> 
