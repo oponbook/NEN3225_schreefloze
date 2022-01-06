@@ -1,6 +1,6 @@
 <!-- language: lang-none -->
 
-[graphic play with NEN-3225 typeface family](https://www.openboek.info/source/nen/Dongbinhan_nen_specimen_F.png)
+![graphic play with NEN-3225 typeface family](https://www.openboek.info/source/nen/Dongbinhan_nen_specimen_F.png)
 
 # NEN-3225 digitized
 
