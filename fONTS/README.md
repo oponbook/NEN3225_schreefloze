@@ -1,5 +1,7 @@
 <!-- language: lang-none -->
 
+![graphic play with NEN-3225 typeface family](https://www.openboek.info/source/img/nen/Dongbinhan_nen_specimen_F2.png)
+
                   _                           ____  __                    
      ____        (_)     _      ____   ____  (____)(__)       _____  ____    
     (____)   ___ (_)__  (_)__  (____) (____)(_)__   (_)  ___ (_____)(____)
@@ -16,6 +18,9 @@
 digitisation of listed one Romain cut, Schreefloze cuts and font-production in plan.
 
 ## ˢPECIMEN
+![NEN-3225 Schreefloze, Mager](https://www.openboek.info/source/img/nen/nen_specimen_F.png)
+![NEN-3225 Schreefloze, Vet](https://www.openboek.info/source/img/nen/nen_specimen_F2.png)
+
 ### Squint into fontS
 
 ## ᵈOCS
